@@ -6,7 +6,7 @@
       "type": "income",
       "category": "Venda",
       "price": 14000,
-      "createAt": "2022-07-29T19:36:44.505Z"
+      "createdAt": "2022-07-29T19:36:44.505Z"
     },
     {
       "id": 2,
@@ -14,7 +14,39 @@
       "type": "outcome",
       "category": "Alimentação",
       "price": 50,
-      "createAt": "2022-07-29T19:40:44.505Z"
+      "createdAt": "2022-07-29T19:40:44.505Z"
+    },
+    {
+      "description": "desenvolvimento de app",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2022-11-25T17:27:27.858Z",
+      "id": 3
+    },
+    {
+      "description": "desenvolvimento web site ",
+      "price": 3000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2022-11-25T17:35:36.660Z",
+      "id": 4
+    },
+    {
+      "description": "pastel",
+      "price": 10,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2022-11-25T17:53:52.421Z",
+      "id": 5
+    },
+    {
+      "description": "pao de queijo",
+      "price": 10,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2022-11-25T17:54:10.697Z",
+      "id": 6
     }
   ]
 }
